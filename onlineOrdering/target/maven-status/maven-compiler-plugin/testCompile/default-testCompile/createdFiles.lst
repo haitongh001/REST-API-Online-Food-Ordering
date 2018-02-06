@@ -1,0 +1,5 @@
+com\webService\onlineOrdering\OnlineOrderingApplicationTests.class
+com\webService\onlineOrdering\tests\MenuControllerTest.class
+com\webService\onlineOrdering\tests\RestaurantControllerTest.class
+com\webService\onlineOrdering\tests\AllTests.class
+com\webService\onlineOrdering\tests\ItemControllerTest.class
